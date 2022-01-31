@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MCD Footprints")(type "KiCad")(uri "${KIPRJMOD}/fp_lib/")(options "")(descr ""))
+)
