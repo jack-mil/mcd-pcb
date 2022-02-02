@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "M6800.kicad_pro",
+    "filename": "M68000.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -320,6 +320,14 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "a1805ba7-0429-43cb-986c-2945a3c23010",
+      "Duart Serial Interface"
+    ],
+    [
+      "bd75a1f4-6a42-4972-81ac-37141231b485",
+      "Memory"
     ]
   ],
   "text_variables": {}
