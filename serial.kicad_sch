@@ -2,7 +2,7 @@
 
   (uuid 6da0e163-2d95-45d9-8ed3-85b3748ca2e1)
 
-  (paper "B")
+  (paper "A4")
 
   (title_block
     (title "Duart and RS232 Circuitry")
